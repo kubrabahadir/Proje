@@ -78,7 +78,7 @@ nipype==1.8.6
 nltk==3.8.1
 notebook==6.5.4
 notebook-shim==0.2.2
-numpy==1.24.2
+numpy==1.21.6
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
 packaging==23.0
