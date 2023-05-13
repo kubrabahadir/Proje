@@ -43,7 +43,6 @@ fitz==0.0.1.dev2
 Flask==2.2.3
 flask-form==1.0.0
 flatbuffers==23.3.3
-fonttools==4.39.3
 fpdf==1.7.2
 future==0.18.3
 game==0.0.5
