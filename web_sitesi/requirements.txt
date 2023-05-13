@@ -67,8 +67,6 @@ looseversion==1.1.2
 lxml==4.9.2
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
-matplotlib==3.7.1
-matplotlib-inline==0.1.6
 mdurl==0.1.2
 mediapipe==0.9.2.1
 mistune==2.0.5
