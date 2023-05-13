@@ -14,3 +14,11 @@ Catching Fish score: 6.0
 Fruit Ninja score: 10.0
 Tetris score: 7.0
 Signed by defne on 2023-04-29 23:13:55
+Name: eda
+Last name: basaran
+Age: 22.0
+Favorite game: catch�ng fish
+Catching Fish score: 7.0
+Fruit Ninja score: 9.99
+Tetris score: 8.0
+Signed by eda on 2023-05-12 14:34:34
