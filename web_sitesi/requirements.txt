@@ -83,7 +83,7 @@ jedi==0.18.2
 joblib==1.2.0
 json5==0.9.11
 jsonschema==4.17.3
-keras==2.12.0
+keras==2.11.0
 kiwisolver==1.4.4
 langdetect==1.0.9
 looseversion==1.1.2
