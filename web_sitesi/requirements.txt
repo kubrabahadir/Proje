@@ -99,7 +99,7 @@ nbclient==0.7.3
 nbconvert==7.3.0
 nbformat==5.8.0
 nest-asyncio==1.5.6
-networkx==3.1
+networkx==2.6.3
 nibabel==5.1.0
 nipype==1.8.6
 nltk==3.8.1
